@@ -1,0 +1,7 @@
+C:\Users\walqu\source\repos\Practicando GitHub\Practicando GitHub\bin\Debug\Practicando GitHub.exe.config
+C:\Users\walqu\source\repos\Practicando GitHub\Practicando GitHub\bin\Debug\Practicando GitHub.exe
+C:\Users\walqu\source\repos\Practicando GitHub\Practicando GitHub\bin\Debug\Practicando GitHub.pdb
+C:\Users\walqu\source\repos\Practicando GitHub\Practicando GitHub\obj\Debug\Practicando GitHub.csproj.AssemblyReference.cache
+C:\Users\walqu\source\repos\Practicando GitHub\Practicando GitHub\obj\Debug\Practicando GitHub.csproj.CoreCompileInputs.cache
+C:\Users\walqu\source\repos\Practicando GitHub\Practicando GitHub\obj\Debug\Practicando GitHub.exe
+C:\Users\walqu\source\repos\Practicando GitHub\Practicando GitHub\obj\Debug\Practicando GitHub.pdb
